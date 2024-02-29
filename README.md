@@ -11,7 +11,7 @@ Sou um desenvolvedor web apaixonado por criar experiências digitais incríveis 
 <!-- Projetos em destaque -->
 ## Projetos em Destaque
 - [Vigilante Comunitário](https://github.com/tiago721/Vigilante-Comunitario): Projeto para promover a segurança comunitária através de uma plataforma web.
-- [Mapa Interativo](https://github.com/tiago721/MapaInterativo): Aplicação web para gerenciar tarefas com integração de uma API RESTful.
+- [Mapa Interativo](https://github.com/tiago721/MapaInterativo): Projeto de mapa interativo com Leaflet.js, exibindo marcações de projetos e uma legenda dinâmica.
 - [GraphQL com Apollo Client](https://github.com/tiago721/GraphQL-ApolloGraph): Exemplo de integração de GraphQL com Apollo Client em uma aplicação web.
 
 <!-- Habilidades -->
