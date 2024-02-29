@@ -27,3 +27,5 @@ Sou um desenvolvedor web apaixonado por criar experiências digitais incríveis 
 - LinkedIn: [Tiago Gonçalves Santos](https://www.linkedin.com/in/tiago721/)
 - Telefone: (41) 98740-4273
 - Email: tiago721@live.com
+- 
+Sinta-se à vontade para explorar meus projetos e entrar em contato!
