@@ -1,21 +1,29 @@
+<!-- Seu nome -->
 # Tiago Gonçalves Santos
 
-Graduação em Análise e Desenvolvimento de Sistemas - ESTÁCIO
+<!-- Descrição -->
+Sou um desenvolvedor web apaixonado por criar experiências digitais incríveis e eficientes. Com habilidades em front-end e back-end, busco constantemente aprender e aplicar novas tecnologias para melhorar meus projetos. Meu foco atual está no desenvolvimento de aplicações web modernas e no consumo de APIs REST para criar soluções escaláveis e robustas.
 
-## Linguagens e Aplicações
+<!-- Badges (opcional) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago_Gonçalves-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tiago721/)
+[![GitHub](https://img.shields.io/badge/GitHub-tiago721-darkgreen?style=flat&logo=github)](https://github.com/tiago721)
 
-- JavaScript
-- HTML5 - CSS
-- MySQL
+<!-- Projetos em destaque -->
+## Projetos em Destaque
+- [Vigilante Comunitário](https://github.com/tiago721/Vigilante-Comunitario): Projeto para promover a segurança comunitária através de uma plataforma web.
+- [Mapa Interativo](https://github.com/tiago721/MapaInterativo): Aplicação web para gerenciar tarefas com integração de uma API RESTful.
+- [GraphQL com Apollo Client](https://github.com/tiago721/GraphQL-ApolloGraph): Exemplo de integração de GraphQL com Apollo Client em uma aplicação web.
 
+<!-- Habilidades -->
+## Habilidades
+- HTML, CSS, JavaScript
+- React, Vue.js
+- Node.js, Express
+- Consumo de APIs REST
+- Banco de Dados SQL e NoSQL
 
-## Meus Projetos
-
-Na tabela abaixo estão listados um resumo dos trabalhos que desenvolvi e seu link para acesso à aplicação;
-
-|       NOME        |DESCRIÇÃO                          |APLICABILIDADE       |Link Externo        | Status_do_Projeto        |
-|----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|
-| [Site_VigilanteComunitario](https://github.com/tiago721/site_VigilanteComunitario)|`Site apresentado no SEPESQI 2021`            |'Plataforma digital de uma rede comunitária de monitoramento.'            |<h4 align="center">https://vigilantecomunitario.000webhostapp.com/Home.php</h4>|<h4 align="center"> ✅  Finalizado ✅ </h4>|
-| [Site_FinanTech](https://github.com/tiago721/site_FinanTech)|`Site  projeto acadêmico INTEGRADOR_2021.1`            |'Site para Simulação/Contratação de Empréstimos Financeiros'            |<h4 align="center">https://thefinantech.000webhostapp.com/Home.html</h4>|<h4 align="center"> ✅  Finalizado ✅ </h4>|
-| [Site_PlatServ](https://github.com/tiago721/site_PlatServ)          |`Site  projeto acadêmico INTEGRADOR_2020.2`            |Site de prestação de serviços (jardinagem, pintores, etc...)            |<h4 align="center"> https://finantech2.000webhostapp.com/tg00-PlatServ/home.html </h4>|<h4 align="center"> ✅  Finalizado ✅ </h4>|
-| [Site_ReformCompany](https://github.com/tiago721/site_ReformCompany)          |`Site desenvolvido para práticar HTML / CSS (front-end)`|Plataforma com finalidade na intermediação na prestação de serviços gerais.|<h4 align="center"> https://finantech2.000webhostapp.com/tg01-ReformCompany/index.html </h4>|<h4 align="center"> ✅  Finalizado ✅ </h4>|
+<!-- Contato -->
+## Contato
+- LinkedIn: [Tiago Gonçalves Santos](https://www.linkedin.com/in/tiago721/)
+- Telefone: (41) 98740-4273
+- Email: tiago721@live.com
